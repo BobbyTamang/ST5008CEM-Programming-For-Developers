@@ -1,3 +1,4 @@
+#submisson by bobby tamang 
 from math import gcd
 from collections import defaultdict
 
